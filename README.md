@@ -35,7 +35,7 @@ IdeaVerse is a platform for sharing and discovering innovative ideas. Built with
 
 1. Clone the repository
 ```
-git clone <repository-url>
+git clone https://github.com/Vijay123123/ideaVerse.git
 cd ideaverse
 ```
 
